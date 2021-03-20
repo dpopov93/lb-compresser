@@ -1,5 +1,5 @@
 # lb-compressor
-![lb-compressor - App Icon](icon/Compresser_Logo.png)
+<img src="icon/Compresser_Logo.png" alt="lb-compressor - App Icon" width="200" height="200"/>
 ### GUI for JavaScript compressing utility
 
 [![License GPL](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
